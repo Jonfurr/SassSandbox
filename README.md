@@ -1,2 +1,2 @@
-====== Sass Sandbox
+# Sass Sandbox
 
