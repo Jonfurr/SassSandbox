@@ -1,2 +1,2 @@
-.. Sass Sandbox
+Alt-H1 Sass Sandbox
 
